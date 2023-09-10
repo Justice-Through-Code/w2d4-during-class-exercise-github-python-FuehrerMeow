@@ -1,10 +1,10 @@
 # jtc_technical_pq.py
 
 def jtc_technical():
-    #print()
-    pass
+    print("Hello World?")
     
-jtc_technical()
+    
+#jtc_technical()
 
 '''
 Step 1
@@ -21,5 +21,4 @@ Step 3
         Using a single-line comment and no other characters, comment out Line 7
 
 Step 4
-        Delete pass on Line 5
-'''
+    Delete pass on Line 5'''
